@@ -23,3 +23,8 @@ jobs:
       run: dotnet build --configuration Release --no-restore
     #- name: Test
     #  run: dotnet test --no-restore --verbosity normal
+    - name: Upload Artifacts
+      uses: actions/upload-artifact@v2.2.0
+      with:
+        name: Win32 Interop
+        path: .  
