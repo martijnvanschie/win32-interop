@@ -2,6 +2,16 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>0.1.0</Version>
+    <Authors>Martijn van Schie</Authors>
+    <Company>Martijn van Schie</Company>
+    <Product>Win32 Interop</Product>
+    <Description>A set of Win32 Interop libraries written in dotnet standard</Description>
+    <PackageProjectUrl>https://github.com/martijnvanschie/win32-interop</PackageProjectUrl>
+    <RepositoryType>Git</RepositoryType>
+    <RepositoryUrl>https://github.com/martijnvanschie/win32-interop</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <NeutralLanguage>en-US</NeutralLanguage>
   </PropertyGroup>
 
 </Project>
