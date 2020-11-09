@@ -1,7 +1,10 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
+  <Import Project="..\package.props" />
+  
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageProjectUrl>https://www.nuget.org/packages/Win32.Interop.Advapi32/</PackageProjectUrl>
   </PropertyGroup>
 
 </Project>
