@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win32.Interop", "Win32.Inte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win32.Interop.Advapi32", "Win32.Interop.Advapi32\Win32.Interop.Advapi32.csproj", "{B43F31DE-0F2C-4A18-985F-1A7FC42A3A79}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win32.Interop.Secur32", "Win32.Interop.Secur32\Win32.Interop.Secur32.csproj", "{CF18F2C0-0695-4018-815F-07760AA7C214}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B43F31DE-0F2C-4A18-985F-1A7FC42A3A79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B43F31DE-0F2C-4A18-985F-1A7FC42A3A79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B43F31DE-0F2C-4A18-985F-1A7FC42A3A79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF18F2C0-0695-4018-815F-07760AA7C214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF18F2C0-0695-4018-815F-07760AA7C214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF18F2C0-0695-4018-815F-07760AA7C214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF18F2C0-0695-4018-815F-07760AA7C214}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

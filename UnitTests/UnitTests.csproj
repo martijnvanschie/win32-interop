@@ -16,6 +16,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Win32.Interop.Advapi32\Win32.Interop.Advapi32.csproj" />
     <ProjectReference Include="..\Win32.Interop.CredUi\Win32.Interop.CredUi.csproj" />
+    <ProjectReference Include="..\Win32.Interop.Secur32\Win32.Interop.Secur32.csproj" />
     <ProjectReference Include="..\Win32.Interop\Win32.Interop.csproj" />
   </ItemGroup>
 
