@@ -1,4 +1,4 @@
-$key = 'oy2psvwh74gn7txeoiragjktrcurygoepol7ml2hp7vaya'
+$key = Get-Content nuget.key #   'oy2psvwh74gn7txeoiragjktrcurygoepol7ml2hp7vaya'
 $source = 'https://api.nuget.org/v3/index.json'
 
 Write-Host "Start packing packages from solution" -ForegroundColor Cyan
