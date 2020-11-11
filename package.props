@@ -1,6 +1,6 @@
 <Project>
   <PropertyGroup>
-    <Version>0.2.0</Version>
+    <Version>0.3.0</Version>
     <Authors>Martijn van Schie</Authors>
     <Company>Martijn van Schie</Company>
     <Product>Win32 Interop</Product>
